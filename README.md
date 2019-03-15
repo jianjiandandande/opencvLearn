@@ -1,6 +1,6 @@
-###   图像处理入门
+#   图像处理入门
 
-# 图像的几何变换
+### 图像的几何变换
 
 * [图片的缩放](https://github.com/jianjiandandande/opencvLearn/blob/master/ImageTransformation/imageZoom.py)
 
@@ -14,7 +14,7 @@
 
 * [图片的旋转](https://github.com/jianjiandandande/opencvLearn/blob/master/ImageTransformation/imageRotate.py)
 
-# 图像的简单特效
+### 图像的简单特效
 
 * [图片的灰度化](https://github.com/jianjiandandande/opencvLearn/blob/master/ImageSpecialEffects/imageGray.py)
 
